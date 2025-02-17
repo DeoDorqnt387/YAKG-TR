@@ -1,8 +1,0 @@
-﻿# TODO: Translation updated at 2025-02-12 17:38
-
-translate Turkish strings:
-
-    # game/credits.rpy:142
-    old "RETURN"
-    new "GERİ DÖN"
-
