@@ -1,0 +1,48 @@
+﻿# TODO: Translation updated at 2025-02-12 17:38
+
+translate Turkish strings:
+
+    # game/gallery.rpy:91
+    old "Image [index]/[count] locked."
+    new "Resim [index]/[count] Kilitli."
+
+    # game/gallery.rpy:111
+    old "Prev"
+    new "Önceki"
+
+    # game/gallery.rpy:112
+    old "Next"
+    new "Sonraki"
+
+    # game/gallery.rpy:113
+    old "Slideshow"
+    new "Slayt Gösterisi"
+
+    # game/gallery.rpy:885
+    old "CGs"
+    new "CG'ler"
+
+    # game/gallery.rpy:891
+    old "Backgrounds"
+    new "Arkaplanlar"
+
+    # game/gallery.rpy:898
+    old "Sprites"
+    new "Spritelar"
+
+    # game/gallery.rpy:905
+    old "Music Room"
+    new "Muzik Odası"
+
+    # game/gallery.rpy:919
+    old "1"
+    new "1"
+
+    # game/gallery.rpy:924
+    old "2"
+    new "2"
+
+    # game/gallery.rpy:929
+    old "3"
+    new "3"
+
